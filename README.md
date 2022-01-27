@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @hahnrobi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Robert Hahn @hahnrobi
+- 👀 I’m interested in web and software development
+- 🔗 Visit my website at https://robi2.hu
 - 📫 How to reach me robihahn98@gmail.com
 
 <!---
