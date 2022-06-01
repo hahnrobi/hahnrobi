@@ -1,4 +1,4 @@
-## Hi, I'm Robert Hahn @hahnrobi! <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
+## Hi, I'm Robert Hahn @hahnrobi! <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" style="width: 30px" width="30px">
 A web developer from 🇭🇺 Hungary!
 
 #### ABOUT ME
