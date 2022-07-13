@@ -4,8 +4,7 @@ A web developer from 🇭🇺 Hungary!
 #### ABOUT ME
 I'm a big fan of computers since my childhood. Since then I constantly learn new things and use them in my day-to-day work. I mostly interested in web based software development, especially with JavaScript, C# and PHP. 
 - I use daily  `.js`, `.ts`, `.php`, `.cs`, `.html`, `.css`, `.ai`, `.psd`
-- IT Consultant @ European Distance and E-Learning Network
-- As a side project I also make websites at https://harweb.hu/
+- Frontend Developer @ Trendency
 
 #### ONGOING FREETIME PROJECTS
 - 🧑‍💻 Terminus: Web based terminal client app built with Nuxt.js
