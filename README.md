@@ -6,12 +6,6 @@ I'm a big fan of computers since my childhood. Since then I constantly learn new
 - I use daily  `.js`, `.ts`, `.php`, `.cs`, `.html`, `.css`, `.ai`, `.psd`
 - Frontend Developer @ Trendency
 
-#### ONGOING FREETIME PROJECTS
-- 🧑‍💻 Terminus: Web based terminal client app built with Nuxt.js
-- 📃 (Name under consideration): Quote making web-app based on Angular and .NET
-- 📝 IVA Forms: Custom form making app
-
-
 #### CONTACT
 [![Twitter Follow](https://img.shields.io/twitter/follow/hahnrobi_?label=Follow)](https://twitter.com/intent/follow?screen_name=hahnrobi_)
 ![website](https://img.shields.io/badge/website-robi2.hu-%23dc3545)
